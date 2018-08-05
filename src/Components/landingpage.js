@@ -23,7 +23,7 @@ class LandingPage extends Component {
 							<a href="https://www.facebook.com/jjeypi" target="_blank" rel="noopener noreferrer">
 								<i className="fa fa-facebook-square" />
 							</a>
-							<a href="http://google.com" target="_blank" rel="noopener noreferrer">
+							<a href="https://github.com/josepaulodelacruz" target="_blank" rel="noopener noreferrer">
 								<i className="fa fa-github-square" />
 							</a>
 							<a href="http://google.com" target="_blank" rel="noopener noreferrer">
