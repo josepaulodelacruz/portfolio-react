@@ -11,13 +11,13 @@ const Main = () => {
 	
 	return (
 	<HashRouter>
-	<Switch>
-		<Route exact path="/" component={LandingPage}/>
-		<Route path="/aboutme" component={AboutMe} />
-		<Route path="/contact" component={Contact}/>
-		<Route path="/project" component={Project}/>
-		<Route path="/resume"  component={Resume}></Route>
-	</Switch>
+		<Switch>
+			<Route exact path="/" component={LandingPage}/>
+			<Route path="/aboutme" component={AboutMe} />
+			<Route path="/contact" component={Contact}/>
+			<Route path="/project" component={Project}/>
+			<Route path="/resume"  component={Resume}></Route>
+		</Switch>
 	</HashRouter>
 	);
 }
