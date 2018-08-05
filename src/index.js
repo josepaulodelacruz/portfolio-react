@@ -5,11 +5,13 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
-import { HashRouter } from 'react-router-dom';
+import { HashRouter, BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
 	<HashRouter>
-		<App />
+		<BrowserRouter>
+			<App />
+		</BrowserRouter>	
 	</HashRouter>,	
 		document.getElementById('root')
 	);
