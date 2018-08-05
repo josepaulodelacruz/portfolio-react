@@ -9,9 +9,7 @@ import { HashRouter, BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
 	<HashRouter>
-		<BrowserRouter>
-			<App />
-		</BrowserRouter>	
+		<App />	
 	</HashRouter>,	
 		document.getElementById('root')
 	);
