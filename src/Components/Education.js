@@ -63,10 +63,10 @@ class Education extends Component {
 							<p style={fontStyle}>2014</p>
 						</section>
 					</div>
-					<div style={eduGrid}>
 						<section>
 						<h3 style={{fontFamily: 'arial helvetica san-serif', marginLeft: '20px'}}>Certificate</h3>
 						<hr style={{width: '50%', marginLeft: '20px'}}/>
+						<div style={eduGrid}>
 							<p style={headStyle}>SAP online Business</p>
 						</section>
 						<section style={{marginLeft: '20px'}}>
