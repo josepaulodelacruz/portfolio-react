@@ -1,15 +1,15 @@
 {
-  "main.css": "static/css/main.191cd64f.css",
-  "main.css.map": "static/css/main.191cd64f.css.map",
-  "main.js": "static/js/main.33dea6d6.js",
-  "main.js.map": "static/js/main.33dea6d6.js.map",
+  "main.css": "static/css/main.2eae8b8c.css",
+  "main.css.map": "static/css/main.2eae8b8c.css.map",
+  "main.js": "static/js/main.33d41f83.js",
+  "main.js.map": "static/js/main.33d41f83.js.map",
   "static\\media\\avatar.png": "static/media/avatar.ea7b4a57.png",
   "static\\media\\back.jpeg": "static/media/back.e1f93f94.jpeg",
-  "static\\media\\background.jpg": "static/media/background.9b5e292b.jpg",
-  "static\\media\\banner.jpg": "static/media/banner.41300629.jpg",
   "static\\media\\front1.jpg": "static/media/front1.fc2e9a04.jpg",
   "static\\media\\low.jpg": "static/media/low.f2585ed8.jpg",
   "static\\media\\me.jpg": "static/media/me.73490aa9.jpg",
+  "static\\media\\oldself.jpg": "static/media/oldself.be36bff0.jpg",
+  "static\\media\\picture.jpg": "static/media/picture.0ab38efc.jpg",
   "static\\media\\picture1.JPG": "static/media/picture1.dcefa935.JPG",
   "static\\media\\wacky.jpg": "static/media/wacky.3892489a.jpg"
 }
