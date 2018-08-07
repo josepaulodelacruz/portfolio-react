@@ -65,11 +65,12 @@ class Education extends Component {
 					</div>
 					<div style={eduGrid}>
 						<section>
-							<p style={headStyle}>Integrated Micro-Electronics, Inc</p>
-							<p style={{fontSize: '1rem', marginLeft: '20px'}}>Assembly Technician<br/>Binan Laguna</p>
+						<h3 style={{fontFamily: 'arial helvetica san-serif', marginLeft: '20px'}}>Certificate</h3>
+						<hr style={{width: '50%', marginLeft: '20px'}}/>
+							<p style={headStyle}>SAP online Business</p>
 						</section>
 						<section style={{marginLeft: '20px'}}>
-							<p style={fontStyle}>2014-2015</p>
+							<p style={fontStyle}>2017</p>
 						</section>
 					</div>
 				</div>

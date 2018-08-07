@@ -23,7 +23,7 @@ class Resume extends Component {
 					<h2 style={{margin: '10px 0 10px 0' ,lineHeight: '0px'}}>Email<hr style={{width: '50%', color: 'blue'}}/></h2>
 					<p style={{fontSize: '1.5rem'}}>delacruzjosepaulo@gmail.com</p>
 					<h2 style={{margin: '10px 0 10px 0' ,lineHeight: '0px'}}>Web Site<hr style={{width: '50%', color: 'blue'}}/></h2>
-					<p style={{fontSize: '1.5rem'}}>www.facebook.com/jjeypi</p>
+					<p style={{fontSize: '1.5rem'}}>josepaulodelacruz.github.io/portfolio-react/#/</p>
 				</section>
 				<section className="right-style">
 					<Education/>
